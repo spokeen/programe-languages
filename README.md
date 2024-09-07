@@ -1,2 +1,3 @@
-# programe-languages
-rust@1.62
+# 描述
+本分支是 《Rust 程序设计》第二版的实操分支
+基于 rust@1.80.1 版本
